@@ -1,0 +1,42 @@
+[33mcommit e76bccacaeed86c6360f00801bb38d9b1646f1a3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Quest-360 <aniruddhaquest@gmailcom>
+Date:   Tue Mar 14 12:10:57 2023 +0530
+
+    initial-commit
+
+[1mdiff --git a/info1.txt b/info1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..c4f3562[m
+[1m--- /dev/null[m
+[1m+++ b/info1.txt[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m"This is third file"---there u go[m
+[32m+[m
+[1mdiff --git a/info2.txt b/info2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d02d23b[m
+[1m--- /dev/null[m
+[1m+++ b/info2.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m"This is info2 file"[m[41m [m
+[1mdiff --git a/myfolder/data1.txt b/myfolder/data1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6251d7b[m
+[1m--- /dev/null[m
+[1m+++ b/myfolder/data1.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m"This is first file"[m[41m [m
+[1mdiff --git a/myfolder/data2.txt b/myfolder/data2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..56d92f6[m
+[1m--- /dev/null[m
+[1m+++ b/myfolder/data2.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m"This is second file"[m[41m [m
+[1mdiff --git a/myfolder/data3.txt b/myfolder/data3.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..15dafe1[m
+[1m--- /dev/null[m
+[1m+++ b/myfolder/data3.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m"This is third file"[m[41m [m
